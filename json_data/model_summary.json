@@ -1,0 +1,50 @@
+[
+    {
+        "App": "Instagram",
+        "Metric": "Usage",
+        "MAE": "14.15",
+        "RMSE": "18.18",
+        "Model": "model_instagram_usage.pkl",
+        "Forecast File": "instagram_usage_forecast.csv"
+    },
+    {
+        "App": "Instagram",
+        "Metric": "Notifications",
+        "MAE": "11.65",
+        "RMSE": "15.37",
+        "Model": "model_instagram_notifications.pkl",
+        "Forecast File": "instagram_notifications_forecast.csv"
+    },
+    {
+        "App": "Instagram",
+        "Metric": "Times_opened",
+        "MAE": "18.8",
+        "RMSE": "24.47",
+        "Model": "model_instagram_times_opened.pkl",
+        "Forecast File": "instagram_times_opened_forecast.csv"
+    },
+    {
+        "App": "Whatsapp",
+        "Metric": "Usage",
+        "MAE": "37.76",
+        "RMSE": "48.28",
+        "Model": "model_whatsapp_usage.pkl",
+        "Forecast File": "whatsapp_usage_forecast.csv"
+    },
+    {
+        "App": "Whatsapp",
+        "Metric": "Notifications",
+        "MAE": "31.72",
+        "RMSE": "37.43",
+        "Model": "model_whatsapp_notifications.pkl",
+        "Forecast File": "whatsapp_notifications_forecast.csv"
+    },
+    {
+        "App": "Whatsapp",
+        "Metric": "Times_opened",
+        "MAE": "14.99",
+        "RMSE": "18.64",
+        "Model": "model_whatsapp_times_opened.pkl",
+        "Forecast File": "whatsapp_times_opened_forecast.csv"
+    }
+]

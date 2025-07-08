@@ -1,0 +1,7 @@
+App,Metric,MAE,RMSE,Model,Forecast File
+Instagram,Usage,14.15,18.18,model_instagram_usage.pkl,instagram_usage_forecast.csv
+Instagram,Notifications,11.65,15.37,model_instagram_notifications.pkl,instagram_notifications_forecast.csv
+Instagram,Times_opened,18.8,24.47,model_instagram_times_opened.pkl,instagram_times_opened_forecast.csv
+Whatsapp,Usage,37.76,48.28,model_whatsapp_usage.pkl,whatsapp_usage_forecast.csv
+Whatsapp,Notifications,31.72,37.43,model_whatsapp_notifications.pkl,whatsapp_notifications_forecast.csv
+Whatsapp,Times_opened,14.99,18.64,model_whatsapp_times_opened.pkl,whatsapp_times_opened_forecast.csv
